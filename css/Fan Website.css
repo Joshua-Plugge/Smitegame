@@ -48,6 +48,7 @@ h3 {
     padding: 5px 20px;
     margin: 0;
     color: #070422;
+    /*070422*/
 }
 
 div#header {
@@ -72,13 +73,12 @@ div#header a {
 }
 
 div#navigation {
-    background: #140f20;
+    background: #fbfbfc;
+    /* 140f20 */
 }
 
 div#navigation li {
     list-style: none;
-    
-    
 }
 
 div#extra {
