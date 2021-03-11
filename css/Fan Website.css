@@ -41,7 +41,7 @@ h1 {
 h2  {
     padding: 5px 20px;
     margin: 0;
-    color: #f5f4fa;
+    color: #070422;
     /*070422*/
 }
 
@@ -75,12 +75,12 @@ div#header a {
 
 div#navigation {
     background: #000000;
+    color-adjust: #C2C2FF;
+      
 }
 
 div#navigation li {
-    list-style: none;
-    
-    
+    list-style: none;    
 }
 
 div#extra {
@@ -109,6 +109,7 @@ div#navigation {
     float: left;
     width: 200px;
     margin-left: -100%;
+    color-adjust: #C2C2FF;
 }
 
 div#extra {
