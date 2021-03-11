@@ -47,8 +47,28 @@ h2  {
 h3 {
     padding: 5px 20px;
     margin: 0;
-    color: #070422;
+    color: #FFFFFF;
 }
+
+/* unvisited link */
+a:link {
+    color: rgb(255, 255, 255);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(1, 90, 255);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(255, 255, 255);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(125, 125, 255);
+  }
 
 div#header {
     position: relative;
@@ -60,7 +80,7 @@ div#header h1 {
     margin: 0;
     padding-left: 10px;
     background: #140f20;
-    color: #ffffff;
+    color: #FFFFFF;
 }
 
 div#header a {
@@ -68,7 +88,7 @@ div#header a {
     right: 0;
     top: 23px;
     padding: 10px;
-    color: #ffffff;
+    color: #FFFFFF;
 }
 
 div#navigation {
