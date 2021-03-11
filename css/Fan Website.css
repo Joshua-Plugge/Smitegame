@@ -42,15 +42,13 @@ h2  {
     padding: 5px 20px;
     margin: 0;
     color: #070422;
-    /*070422*/
 }
 
 h3 {
     padding: 5px 20px;
     margin: 0;
-    color: #FFFFFF;
+    color: #070422;
 }
-
 
 div#header {
     position: relative;
@@ -62,7 +60,7 @@ div#header h1 {
     margin: 0;
     padding-left: 10px;
     background: #140f20;
-    color: #FFFFFF;
+    color: #ffffff;
 }
 
 div#header a {
@@ -70,16 +68,17 @@ div#header a {
     right: 0;
     top: 23px;
     padding: 10px;
-    color: #FFFFFF;
+    color: #006;
 }
 
 div#navigation {
-    background: #000000;
-      
+    background: #140f20;
 }
 
 div#navigation li {
-    list-style: none;    
+    list-style: none;
+    
+    
 }
 
 div#extra {
